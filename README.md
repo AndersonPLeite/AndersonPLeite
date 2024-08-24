@@ -27,5 +27,5 @@
 </div>
 
 
-###  I love programming, computer networks, hacking, games, economics and investing.
+###  I love programming, computer networks, cybersecurity, games, economics and investing.
 ###  My dream is to create software that revolutionizes the financial market and helps people invest.
