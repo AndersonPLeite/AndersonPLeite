@@ -28,5 +28,5 @@
 </div>
 
 
-###  I love programming, computer networks, cybersecurity, games, economics and investing.
+###  I like programming, computer networks, cybersecurity, games, economics and investing.
 
