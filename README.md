@@ -29,4 +29,4 @@
 
 
 ###  I love programming, computer networks, cybersecurity, games, economics and investing.
-###  My dream is to create software that revolutionizes the financial market and helps people invest.
+
