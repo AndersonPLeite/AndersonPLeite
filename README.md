@@ -4,7 +4,7 @@
 
 
 ![G4ngst4C0d3 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonPLeite&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonPLeite&layout=compact)
+
 
 ## Most used technologies 
 
