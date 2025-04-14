@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonpleite/)
 
 
-![G4ngst4C0d3 GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonPLeite&show_icons=true&theme=tokyonight)
+![AndersonPLeite GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonPLeite&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonPLeite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Most used technologies 
